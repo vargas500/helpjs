@@ -79,4 +79,4 @@ window.addEventListener("blur", () => {
     if (armed) freeze();
 });
 
-window.enterFullscreen = enterFullscreen;
+window._imgFreeze = enterFullscreen;
