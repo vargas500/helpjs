@@ -1,3 +1,4 @@
+// v2
 const WORKER_COUNT = 4000;
 
 let armed     = false;
